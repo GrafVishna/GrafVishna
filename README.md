@@ -1,5 +1,5 @@
-<h1 align="center">Привіт! 👋 Я - Artem</h1>
-<h3 align="center">🖥️ Веб-розробник, який обожнює створювати сучасні та зручні сайти 🌟</h3>
+<h1 align="center">Hello! 👋 I'm Artem</h1>
+<h3 align="center">🖥️ A web developer who loves creating modern and user-friendly websites 🌟</h3>
 
 <p align="center">
   <a href="https://github.com/GrafVishna">
@@ -12,21 +12,17 @@
 
 ---
 
-## 🚀 Про мене
+## 🚀 About Me
 
-🔭 **Зараз працюю над**: адаптивними лендингами та веб-додатками на основі сучасних технологій 🌐
+🔭 **Currently working on**: responsive landing pages and web applications using modern technologies 🌐
 
-🌱 **Вчуся**: активно досліджую **TypeScript** та вдосконалюю навички роботи з **React** 🚀
+🌱 **Learning**: actively exploring new tools and improving my skills in **React** and **WordPress** 🚀
 
-👯 **Шукаю співпрацю**: з іншими розробниками та дизайнерами, щоб створювати приголомшливі проекти разом!
+👯 **Looking for collaboration**: with other developers and designers to create amazing projects together!
 
-⚡ **Цікаві факти**:
-- Люблю грати у 🎮 відеоігри, які допомагають мені розслабитися.
-- Часто читаю 📚 книги про сучасні технології, дизайн та філософію.
-- 
 ---
 
-<h3 align="center">✨ "Програмуємо майбутнє разом!" ✨</h3>
+<h3 align="center">✨ "Let's code the future together!" ✨</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="600"/>
