@@ -8,6 +8,9 @@
   <a href="mailto:artem@example.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red" alt="Email">
   </a>
+   <a href="mailto:artem@example.com">
+    <img src="https://img.shields.io/badge/Email-artem@example.com-D14836?logo=email&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
